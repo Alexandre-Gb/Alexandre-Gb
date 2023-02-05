@@ -41,9 +41,10 @@
 
 <br>
 <br>
+<br>
 
 ## **Metrics**
 
-</div>
-
 ![Metrics](/github-metrics.svg)
+
+</div>
