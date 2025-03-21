@@ -1,6 +1,6 @@
 <div align=center>
  
-<h1>Chrome Wave Arena #TCIZ4</h1>
+<h1>Chrome Wave Arena</h1>
 
 <br>
 
